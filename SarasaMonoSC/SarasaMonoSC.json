@@ -1,1 +1,25 @@
-
+{
+  "spec": 1,
+  "name": "Sarasa Mono SC",
+  "previewText": "Sarasa Mono SC - 等距更纱黑体，让代码与文字更和谐。",
+  "main": {
+    "ABCGintoNord-ExtraBold": "https://github.com/HuiyingZz/ResourceHost/raw/main/SarasaMonoSC/SarasaMonoSC-Bold.ttf",
+    "ggsans-Bold": "https://github.com/HuiyingZz/ResourceHost/raw/main/SarasaMonoSC/SarasaMonoSC-Bold.ttf",
+    "ggsans-BoldItalic": "https://github.com/HuiyingZz/ResourceHost/raw/main/SarasaMonoSC/SarasaMonoSC-BoldItalic.ttf",
+    "ggsans-ExtraBold": "https://github.com/HuiyingZz/ResourceHost/raw/main/SarasaMonoSC/SarasaMonoSC-Bold.ttf",
+    "ggsans-ExtraBoldItalic": "https://github.com/HuiyingZz/ResourceHost/raw/main/SarasaMonoSC/SarasaMonoSC-BoldItalic.ttf",
+    "ggsans-Medium": "https://github.com/HuiyingZz/ResourceHost/raw/main/SarasaMonoSC/SarasaMonoSC-SemiBold.ttf",
+    "ggsans-MediumItalic": "https://github.com/HuiyingZz/ResourceHost/raw/main/SarasaMonoSC/SarasaMonoSC-SemiBoldItalic.ttf",
+    "ggsans-Normal": "https://github.com/HuiyingZz/ResourceHost/raw/main/SarasaMonoSC/SarasaMonoSC-Regular.ttf",
+    "ggsans-NormalItalic": "https://github.com/HuiyingZz/ResourceHost/raw/main/SarasaMonoSC/SarasaMonoSC-Italic.ttf",
+    "ggsans-Semibold": "https://github.com/HuiyingZz/ResourceHost/raw/main/SarasaMonoSC/SarasaMonoSC-SemiBold.ttf",
+    "ggsans-SemiboldItalic": "https://github.com/HuiyingZz/ResourceHost/raw/main/SarasaMonoSC/SarasaMonoSC-SemiBoldItalic.ttf",
+    "NotoSans-Bold": "https://github.com/HuiyingZz/ResourceHost/raw/main/SarasaMonoSC/SarasaMonoSC-Bold.ttf",
+    "NotoSans-ExtraBold": "https://github.com/HuiyingZz/ResourceHost/raw/main/SarasaMonoSC/SarasaMonoSC-Bold.ttf",
+    "NotoSans-Medium": "https://github.com/HuiyingZz/ResourceHost/raw/main/SarasaMonoSC/SarasaMonoSC-SemiBold.ttf",
+    "NotoSans-Normal": "https://github.com/HuiyingZz/ResourceHost/raw/main/SarasaMonoSC/SarasaMonoSC-Regular.ttf",
+    "NotoSans-NormalItalic": "https://github.com/HuiyingZz/ResourceHost/raw/main/SarasaMonoSC/SarasaMonoSC-Italic.ttf",
+    "NotoSans-Semibold": "https://github.com/HuiyingZz/ResourceHost/raw/main/SarasaMonoSC/SarasaMonoSC-SemiBold.ttf",
+    "SourceCodePro-Semibold": "https://github.com/HuiyingZz/ResourceHost/raw/main/SarasaMonoSC/SarasaMonoSC-SemiBold.ttf"
+  }
+}
